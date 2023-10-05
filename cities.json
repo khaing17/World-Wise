@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "cityName": "Taunggyi Township",
+      "emoji": "🇲🇲",
+      "date": "2023-09-22T08:05:00.206Z",
+      "notes": "Hi there have fun :)",
+      "position": {
+        "lat": "20.761250430919652",
+        "lng": "97.03674316406251"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Abbendorf",
+      "emoji": "🇩🇪",
+      "date": "2023-08-04T16:06:04.000Z",
+      "notes": "Fantastic",
+      "position": {
+        "lat": "52.75956761546834",
+        "lng": "10.909423828125002"
+      },
+      "id": 2
+    }
+  ]
+}
